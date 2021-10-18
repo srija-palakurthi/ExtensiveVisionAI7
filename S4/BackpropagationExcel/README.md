@@ -78,4 +78,4 @@ Updating the weights
     w7 = w7 - learning_rate * δE_total/δw7
     w8 = w8 - learning_rate * δE_total/δw8
 
-Link to Excel Sheet - 
+Link to Excel Sheet - https://github.com/srija-palakurthi/ExtensiveVisionAI7/blob/f373b541e2cf0fb73aa5013d5c6a90eb475174d8/S4/BackpropagationExcel/Backpropagation_S4.xlsx
